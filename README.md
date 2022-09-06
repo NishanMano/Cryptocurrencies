@@ -1,6 +1,6 @@
 # Cryptocurrencies: 
 
-This project is dealing with an investment bank looking to offer a new cryptocurrency investment portfolio for its customer. They have requested to have the numerous cryptocurrencies can be grouped to create a classification system for the new investment. This request doesn't really identify any known outputs, therefore we would have to use unsupervised learning to analyze a database of cryptocurrencies. 
+This project is dealing with an investment bank looking to offer a new cryptocurrency investment portfolio for its customer. They have requested that the numerous cryptocurrencies can be grouped to create a classification system for the new investment. This request doesn't really identify any known outputs, therefore we would have to use unsupervised learning to analyze a database of cryptocurrencies. 
 
 Methods Used:
 1. Preprocess the database provided
@@ -23,7 +23,7 @@ We used the Principal Component Analysis (PCA) to reduce our cryptocurrency dime
 
 3. ![2DScatterPlot](https://i.ibb.co/BwT1sjX/Tradable.png)
 
-This 2D scatter plot does not provide us with a valuable insight on the differences between the classes. The two cryptocurrency features shown in this graph are: 
+This 2D scatter plot does not provide us with valuable insight into the differences between the classes. The two cryptocurrency features shown in this graph are:
 
 (a) TotalCoinSupply
 
