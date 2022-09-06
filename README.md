@@ -28,3 +28,6 @@ This 2D scatter plot does not provide us with a valuable insight on the differen
 (a) TotalCoinSupply
 
 (b) TotalCoinsMined
+
+## Summary:
+We can use these clustering results as inputs when building our neuron networks for training our machine learning model. 
