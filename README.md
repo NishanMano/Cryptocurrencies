@@ -17,7 +17,7 @@ Methods Used:
 This K-Means Elbow Curve model shows us that we had 4 various clusters out of our 532 tradable cryptocurrencies. We used this graph to determine the  number of clusters that would be optimal to categorize our cryptocurrencies. We will use this information to help build our 3D scatter plot. 
 
 
-2. ![3DScatterPlot](https://i.ibb.co/HgWMvKp/3-D-Scatter-Plot.png)
+2. ![3DScatterPlot](https://i.ibb.co/7C1HdLt/3-D-Scatter-Plot.png)
 
 We used the Principal Component Analysis (PCA) to reduce our cryptocurrency dimensions to three principal components. 
 
