@@ -21,7 +21,7 @@ This K-Means Elbow Curve model shows us that we had 4 various clusters out of ou
 
 We used the Principal Component Analysis (PCA) to reduce our cryptocurrency dimensions to three principal components. 
 
-3. ![2DScatterPlot](https://i.ibb.co/MBd2Yw6/Tradable.png) 
+3. ![2DScatterPlot](https://i.ibb.co/BwT1sjX/Tradable.png)
 
 This 2D scatter plot does not provide us with a valuable insight on the differences between the classes. The two cryptocurrency features shown in this graph are: 
 
